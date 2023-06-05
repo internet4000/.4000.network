@@ -1,8 +1,9 @@
 # internet4000.4000.network
 
-- the `.profile.json` file is used as configuration for the 4000.network profile
-- the profile is also used for the 4000.network home page, when no subdomain is specified
+This repository has the configuration file `.profile.json`, used for the `*.4000.network`
 
-- [internet4000.4000.network](https://internet4000.4000.network)
-- [4000.network](https://4000.network)
+- It creates this page [internet4000.4000.network](https://internet4000.4000.network)
+- Can start from here [4000.network](https://4000.network)
+- Explore the [code](https://github.com/internet4000/.4000.network)
 
+In addition, to appear in the search results of the homepage, this github repository has the tags `4000-network` and `profile-json`.
