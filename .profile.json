@@ -1,0 +1,16 @@
+{
+  "name": "i4k",
+  "widgets": [
+    {
+      "type": "matrix-room-element",
+      "attributes": [
+        ["profile-id", "#libli:matrix.org"],
+        ["show-context", true]
+      ]
+    },
+    {
+      "type": "p",
+      "inner-text": "Hello!"
+    }
+  ]
+}
